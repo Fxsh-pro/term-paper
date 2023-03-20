@@ -1,0 +1,4 @@
+C:\Users\matve\OneDrive\Рабочий стол\grafic\grafic\Debug\grafic.vcxproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\grafic\grafic\Debug\grafic.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\matve\OneDrive\Рабочий стол\grafic\grafic\Debug\grafic.MyForm.resources
+C:\Users\matve\OneDrive\Рабочий стол\grafic\grafic\Debug\grafic.vcxproj.GenerateResource.cache
